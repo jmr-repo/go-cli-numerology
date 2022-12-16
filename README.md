@@ -1,6 +1,6 @@
 # Get numerology number by given input
 
-Just for fun
+A cli tool for fun
 
 ## Table of Values
 | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9
